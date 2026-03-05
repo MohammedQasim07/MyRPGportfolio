@@ -1,0 +1,9 @@
+{
+    "name": "mq-portfolio",
+    "rewrites": [
+        {
+            "source": "/(.*)",
+            "destination": "/index.html"
+        }
+    ]
+}
